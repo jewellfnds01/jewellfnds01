@@ -5,8 +5,6 @@
 I'm a first-year Computer Science student exploring the world of Technology
 **Artificial Intelligence & Robotics.**
 
----
-
 ## What I'm Learning :)
 
 - 💻 C Programming & Problem Solving
@@ -15,7 +13,6 @@ I'm a first-year Computer Science student exploring the world of Technology
 - 🐙 Git & GitHub
 - 🚀 Learning by building projects
 
----
 
 ## 🛠️ Tech I'm Working With
 
@@ -31,24 +28,18 @@ I'm a first-year Computer Science student exploring the world of Technology
 
 `AI` `Machine Learning` `Robotics` `Cloud`
 
----
-
 ## 📌 Featured Projects
 
 I'm currently building my foundation through small projects and experiments.
 
 More projects coming soon! 🚀
 
----
 
 ## 🌱 My Goal
 
 To combine **AI + Robotics** and eventually
 build technology that can interact naturally with people.
 
----
-
-### 💭 "Learn. Build. Break. Fix. Repeat."
 
 ⭐ Thanks for visiting my profile!
 <!--
